@@ -1,4 +1,9 @@
 # Popular-Movie-Stage1
+
+An API Key from TheMovieDB service is needed to use this application, please refer to the official api FAQ here: https://www.themoviedb.org/faq/api
+
+Insert your API Key in the Class: Network.java
+
 ## Project Overview
    Most of us can relate to kicking back on the couch and enjoying a movie with friends and family. In this project, I build an app  to allow users to discover the most popular movies playing. We will split the development of this app in two stages. First, let's talk about stage 1.
 	 
